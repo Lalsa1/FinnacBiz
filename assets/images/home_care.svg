@@ -1,0 +1,23 @@
+<svg id="Group_3_" data-name="Group (3)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.084" height="32" viewBox="0 0 38.084 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fed130"/>
+      <stop offset="1" stop-color="#f4ce48"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#06213b"/>
+      <stop offset="1" stop-color="#586a7c"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_5176" data-name="Path 5176" d="M0,32H8.812V22.283H0Zm6.506-8.75H7.783v1.234H6.506Zm-2.018,0H5.765v1.234H4.488Z" fill="url(#linear-gradient)"/>
+  <path id="Path_5177" data-name="Path 5177" d="M16.481,9.525h1.092v.808H16.481Z"/>
+  <path id="Path_5178" data-name="Path 5178" d="M18.807,9.525H19.9v.808H18.807Z"/>
+  <path id="Path_5179" data-name="Path 5179" d="M38.079,20.829a.582.582,0,0,0-.255-.312,2.71,2.71,0,0,0-2.813.48l-6.3,5.156a1.839,1.839,0,0,1-1.219.383H22.1a.7.7,0,0,1-.073,0,1.55,1.55,0,0,1-1.408-1.538,1.517,1.517,0,0,1,1.529-1.546h4.671c.14-.019.873-.144.873-.676a.529.529,0,0,1,0-.059.659.659,0,0,0-.152-.428,1.083,1.083,0,0,0-.759-.226H17.835a6.126,6.126,0,0,0-3.751,1.792v5.924a.934.934,0,0,0,.3.737,3.4,3.4,0,0,0,2.158.5l.051,0H27.255a5.077,5.077,0,0,0,3.185-1.383l7.58-8.537a.427.427,0,0,0,.059-.266Z" fill="url(#linear-gradient)"/>
+  <path id="Path_5180" data-name="Path 5180" d="M18.807,11.566H19.9v.808H18.807Z"/>
+  <path id="Path_5181" data-name="Path 5181" d="M10.046,31.159h2.8V23.125h-2.8Z" fill="url(#linear-gradient)"/>
+  <path id="Path_5182" data-name="Path 5182" d="M29.054,0H27.642V2.671l1.412.844Z" fill="url(#linear-gradient-4)"/>
+  <path id="Path_5183" data-name="Path 5183" d="M29.054,17.5V8.145l-7.416-4.43-7.416,4.43V17.5H22.03V10.334h5.612V17.5Zm-7.923-6.544v2.658H15.248V8.293h5.884Z" fill="url(#linear-gradient-4)"/>
+  <path id="Path_5184" data-name="Path 5184" d="M16.481,11.566h1.092v.808H16.481Z"/>
+  <path id="Path_5185" data-name="Path 5185" d="M23.264,11.566h3.144v5.927H23.264Z" fill="url(#linear-gradient-4)"/>
+  <path id="Path_5186" data-name="Path 5186" d="M21.322,2.466a.619.619,0,0,1,.633,0L30.717,7.7l.773-1.294L21.639.521,11.786,6.406,12.56,7.7Z" fill="url(#linear-gradient-4)"/>
+</svg>
